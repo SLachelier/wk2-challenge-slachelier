@@ -4,15 +4,6 @@
 
 I wanted to build this project in order to improve my skills as a web developer. I felt that this was a very realistic approach and application of my skills while still challenging myself. This generator can randomly create secure passwords based on customizable options that are prompted to the user. I learned a lot about concatonation and randomizing values.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
