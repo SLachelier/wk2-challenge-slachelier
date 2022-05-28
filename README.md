@@ -10,7 +10,6 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 To use the password generator, click on 'Generate Password' and follow the prompts that appear on the screen. Enter a numerical value between 8 and 128 to set the desired password length. A screenshot is provided below of what the password generator looks like: 
 
     ```md
